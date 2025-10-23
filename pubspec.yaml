@@ -1,7 +1,7 @@
 name: sandwich_shop
 description: " Flutter project for a sandwich shop."
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none' 
 
 
 version: 1.0.0+1
